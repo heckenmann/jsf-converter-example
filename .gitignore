@@ -1,0 +1,7 @@
+target/
+.settings/
+.project
+.tern-project
+.classpath
+.DS_Store
+nb-configuration.xml
